@@ -43,7 +43,7 @@ Create a row for each person in the database.
 
 ## Finished Table
 
-![finished table](finished-table.png)
+![finished table](finished-tablze.png)
 
 ## Hints
 
