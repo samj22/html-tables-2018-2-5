@@ -10,7 +10,7 @@ Use HTML to create a table that tells you the Company, Name, Address, and City/S
 
 ## Resources:
 
-* [W3Schools HTML Reference: `<table>` tag](https://www.w3schools.com/tags/tag_table.asp)
+* [W3Schools HTML Reference: `<table>` tag](https://ww+w.w3schools.com/tags/tag_table.asp)
 * [W3Schools HTML Tables](https://www.w3schools.com/html/html_tables.asp)
 * [W3Schools CSS Tables](https://www.w3schools.com/Css/css_table.asp)
 
